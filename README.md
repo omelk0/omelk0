@@ -1,5 +1,5 @@
 # 📌 About Me:
-🖐🏻 Hi, my name is Oleksandr Melnychek<br>🖥️ I’m currently working as Junior Frontend Developer at Volta Tech<br>🔨 My stack of technologies that I use the most:<br>    &nbsp;&nbsp;&nbsp;&nbsp;◽ HTML, <br>    ◽ CSS, <br>    ◽ JS, <br>    ◽ Vue, <br>    ◽ Bootstrap, <br>    ◽ SASS/SCSS,<br>    ◽ Git.<br> 
+🖐🏻 Hi, my name is Oleksandr Melnychek<br>🖥️ I’m currently working as Junior Frontend Developer at Volta Tech<br>🔨 My stack of technologies that I use the most:<br>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◽ HTML, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ◽ CSS, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ◽ JS, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ◽ Vue, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ◽ Bootstrap, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ◽ SASS/SCSS,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ◽ Git.<br> 
 
 
 # 📌 Tech Stack:
